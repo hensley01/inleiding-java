@@ -3,6 +3,7 @@ package h06;
 import java.applet.Applet;
 import java.awt.*;
 
+
 public class Hoofdstuk6opdracht2 extends Applet {
     int teller1;
     int teller2;
