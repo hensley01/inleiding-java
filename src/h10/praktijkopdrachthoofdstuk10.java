@@ -44,16 +44,16 @@ public class praktijkopdrachthoofdstuk10  extends Applet {
                     tekst = "4 Slecht";
                     break;
                 case 5:
-                    tekst = "5 Slecht";
+                    tekst = "5 Matig";
                     break;
                 case 6:
-                    tekst = "6 Matig";
+                    tekst = "6 Voldoende";
                     break;
                 case 7:
                     tekst = "7 Voldoende";
                     break;
                 case 8:
-                    tekst = "8 Voldoende";
+                    tekst = "8 GOed";
                     break;
                 case 9:
                     tekst = "9 Goed";
