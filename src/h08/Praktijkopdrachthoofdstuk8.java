@@ -17,6 +17,7 @@ public class Praktijkopdrachthoofdstuk8 extends Applet {
     double vak2;
 
     public void init() {
+        //GEGEVENS
         tekstvak1 = new TextField(10);
         add(tekstvak1);
         tekstvak2 = new TextField(10);
